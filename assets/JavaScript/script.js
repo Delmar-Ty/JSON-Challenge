@@ -6,14 +6,16 @@ let list = [];
 fetch(url).then(res => res.json().then(data => {
     list = data;
     cards.forEach((el, index) => {
-        el.addEventListener('click', () => {
-            
-        })
         addInfo(index);
+        el.addEventListener('click', function() {
+            console.log(this);
+            console.log(this.id);
+        })
     });
 }));
 
 function addInfo(index) {
     let title = document.querySelectorAll('.card-title');
     title[index].textContent = list[index].name;
+    cards[index].setAttribute('id', index);
 }
