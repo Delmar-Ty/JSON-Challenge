@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Mc Donalds",
+        "address": "2380 W US Hwy 89A, Sedona, AZ 86336",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.708406970229!2d-111.8039136845399!3d34.86355348039297!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da12448260813%3A0x578fad00f5f52a59!2sMcDonald&#39;s!5e0!3m2!1sen!2sus!4v1647996587867!5m2!1sen!2sus"
+    },
+    {
+        "name": "Pink Jeep Tours",
+        "address": "204 N State Rte 89A, Sedona, AZ 86336",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13093.986003986041!2d-111.76979626204236!3d34.86887668626483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da3e2a4b3f697%3A0x54551c70d1295739!2sPink%20Jeep%20Tours!5e0!3m2!1sen!2sus!4v1647996877850!5m2!1sen!2sus"
+    },
+    {
+        "name": "Devil's Bridge Trailhead",
+        "address": "Devil's Bridge Trail, Sedona, AZ 86336",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13088.780324781577!2d-111.81990056202963!3d34.9015535861329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da04d6eecbba9%3A0x82d166faa66f0ded!2sDevil&#39;s%20Bridge%20Trailhead!5e0!3m2!1sen!2sus!4v1647996959940!5m2!1sen!2sus"
+    },
+    {
+        "name": "Sedona Pines Resort",
+        "address": "6701 AZ-89A, Sedona, AZ 86336",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13098.035618554406!2d-111.87469596205224!3d34.84343808636778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872cffddd7d03b93%3A0x15d0a2bd072b4056!2sSedona%20Pines%20Resort!5e0!3m2!1sen!2sus!4v1647997043812!5m2!1sen!2sus"
+    }
+]
